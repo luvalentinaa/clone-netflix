@@ -2,8 +2,8 @@
 
 <a href="https://clone-netflix-ruddy.vercel.app/" target="_blank">Acesse projeto no site Vercel 🔗</a>
 
-<img src="">
-<img src="">
+<img src="netflix1.gif">
+<img src="netflix2.gif">
 
 ## Um clone da NETFLIX responsivo utilizando API de dados no site Themoviedb.org
 
